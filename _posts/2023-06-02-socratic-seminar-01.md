@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 1"
-meetup: "https://www.meetup.com/BitDevsJHB/293857566"
+meetup: "https://www.meetup.com/bitdevsjhb/events/293857566"
 ---
 
 ## Announcements
