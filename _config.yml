@@ -12,6 +12,8 @@ sass:
 title: "BitDevs JHB"
 description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
 
+include: ['.well-known']
+
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
